@@ -44,7 +44,9 @@
                     <configuration>
                         <parallel>methods</parallel>
                         <threadCount>10</threadCount>
-                        <includes>**/TestRunner.java</includes>
+                        <includes>
+                            <include> **/TestRunner.java</include>
+                           </includes>
                     </configuration>
                 </plugin>
             </plugins>
