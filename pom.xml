@@ -46,7 +46,7 @@
                         <threadCount>10</threadCount>
                         <includes>
                             <include> **/TestRunner.java</include>
-                           </includes>
+                        </includes>
                     </configuration>
                 </plugin>
             </plugins>
